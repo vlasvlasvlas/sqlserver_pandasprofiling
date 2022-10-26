@@ -1,5 +1,5 @@
 # Whats this
-- data profiling from sql server tables and views
+- automatic pandas data profiling from sql server tables and views
 
 # Structures
 - data-profiles: pandas profiling html exports
